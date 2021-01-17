@@ -1,4 +1,4 @@
-# Area-calulation-using-funtion-c ++
+# Area-calulation-using c ++ function
 #include<iostream>
 using namespace std;
 int area (int r)
